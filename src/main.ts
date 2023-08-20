@@ -1,3 +1,5 @@
+// ng serve --open para compilar e executar
+
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
 import { AppModule } from './app/app.module';
